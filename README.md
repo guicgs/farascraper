@@ -1,5 +1,5 @@
 # __Active Foreign Principals Scraper__
-GovPredict Scraping Foreign Principals Take-home Test
+Scraping Foreign Principals Take-home Test
 
 ## __Documentation__
 - [Overview](#overview)
